@@ -1,0 +1,22 @@
+@import url('https://fonts.cdnfonts.com/css/wizard-world');
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(238, 236, 236);
+}
+
+* {
+    font-family: 'Wizard World', sans-serif;
+}
+
+img {
+    width: 70%;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
